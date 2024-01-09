@@ -1,6 +1,7 @@
 Currently studying CS, webdev, ai, and a bunch of other things
 
 
+
 Links:
 
 https://www.codewars.com/users/BartiX
