@@ -1,6 +1,8 @@
-Currently studying CS, webdev, ai, and a bunch of other things
+Yet another CS student.
 
-Used to C#, Svelte, Node.JS, Express, MySQL, Python, Pytorch, Stripe and more...
+I do webdev, desktop app developement, AI...
+
+I am used to JS, React, C#, MySQL, Python, Pytorch, Stripe, Node.JS, Express, and more...
 
 .
 
