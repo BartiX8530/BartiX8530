@@ -1,4 +1,4 @@
-A striving CS student.
+An ambitious CS student.
 
 I do webdev, desktop app developement, AI...
 
